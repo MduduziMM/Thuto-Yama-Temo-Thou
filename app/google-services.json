@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47883456135",
+    "project_id": "thuto-yama-temo-thuo",
+    "storage_bucket": "thuto-yama-temo-thuo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47883456135:android:3125621f098fca83317222",
+        "android_client_info": {
+          "package_name": "com.elapsedevelopment.thuto_yama_temo_thou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47883456135-oa3tgi9g4km00v1f9i3ui884f20omgdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHiNkqAbolkQLKESXUwZ4kqR3ECdj6Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47883456135-oa3tgi9g4km00v1f9i3ui884f20omgdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nhome"
+        android:title="Home"
+        android:icon="@drawable/ic_round_home"/>
+
+    <item
+        android:id="@+id/nLearn"
+        android:title="Learn"
+        android:icon="@drawable/ic_round_menu_book"/>
+
+
+    <item
+        android:id="@+id/nTest"
+        android:title="Test"
+        android:icon="@drawable/ic_round_grading"/>
+    <item
+        android:id="@+id/nInfo"
+        android:title="Info"
+        android:icon="@drawable/ic_round_info"/>
+
+
+</menu>

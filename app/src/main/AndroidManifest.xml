@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.elapsedevelopment.thuto_yama_temo_thou">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ThutoYamaTemoThou">
+        <activity android:name=".ResetSuccess"></activity>
+        <activity android:name=".ForgotPassword"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".Dashboard" />
+        <activity android:name=".SuccessSignUP" />
+        <activity android:name=".SignUP"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".Login"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
